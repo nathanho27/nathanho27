@@ -38,11 +38,9 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ---
 
-## Languages and Tools
-
 <hr style="border: 1px solid #FFD700; margin-top: 20px; margin-bottom: 20px;">
 
-<h3 align="center" style="color:#003660;">🛠 Languages and Tools</h3>
+<h3 align="center" style="color:#003660;"> Languages and Tools</h3>
 
 <p align="center">
 
