@@ -4,7 +4,7 @@ Hi, I’m Nathan. I am an aspiring Data Analyst with a background in Statistics 
 I enjoy exploring data from different angles and cleaning, modeling, and visualizing insights that help tell a story.  
 My work focuses on turning raw data into clear, visual, and useful information.
 
-## 🔍 About Me
+## About Me
 
 🎓 **B.S. in Statistics & Data Science, UC Santa Barbara (2025)**  
 📊 Interested in sports analytics, financial data, and large-scale data exploration  
@@ -13,7 +13,7 @@ My work focuses on turning raw data into clear, visual, and useful information.
 
 ---
 
-## ⚙️ Technical Stack
+## Technical Stack
 
 **Languages:** Python, R, SQL (PostgreSQL, SQLite), JavaScript, SAS  
 **Libraries & Frameworks:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, ggplot2  
@@ -22,7 +22,7 @@ My work focuses on turning raw data into clear, visual, and useful information.
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 **NBA Stats Analytics**  
 Extracts and analyzes NBA player and game data using the NBA API. Visualizes trends through Tableau dashboards and data storytelling.
@@ -38,7 +38,7 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,sql,tableau,powerbi,git,github,vscode,html,css,js,azure,tensorflow,pytorch" height="40" />
@@ -50,7 +50,7 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nathanho27)  
 - [GitHub](https://github.com/nathanho27)
