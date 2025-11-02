@@ -36,8 +36,6 @@ Applied ARIMA and GARCH models in R to analyze stock volatility and identify ris
 **NBA Breakout Predictor**  
 Built Random Forest and XGBoost models in R to classify “breakout” NBA seasons based on performance deltas across years.
 
----
-
 <hr style="border: 1px solid #FFD700; margin-top: 20px; margin-bottom: 20px;">
 
 <h3 align="center" style="color:#003660;"> Languages and Tools</h3>
