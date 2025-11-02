@@ -40,13 +40,23 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ## Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,tableau,powerbi,git,github,vscode,html,css,js,azure,tensorflow,pytorch" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="50" title="Databricks" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" title="Apache Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="50" title="Google Cloud" />
+<hr style="border: 1px solid #FFD700; margin-top: 20px; margin-bottom: 20px;">
+
+<h3 align="center" style="color:#003660;">🛠 Languages and Tools</h3>
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,html,css,js,azure,tensorflow,pytorch" height="40" />
+
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" title="Tableau" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" title="Databricks" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" title="Apache Spark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="40" title="Google Cloud" />
+
 </p>
+
+<hr style="border: 1px solid #003660; margin-top: 20px; margin-bottom: 20px;">
+
 
 ---
 
