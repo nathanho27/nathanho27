@@ -1,4 +1,8 @@
-## Hi there 👋
+# Nathan Ho
+
+Hi, I’m Nathan — an aspiring Data Analyst with a background in Statistics and Data Science from UC Santa Barbara.  
+I enjoy exploring data from different angles — cleaning, modeling, and visualizing insights that help tell a story.  
+My work focuses on turning raw data into something clear, visual, and useful.
 
 <!--
 **nathanho27/nathanho27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
