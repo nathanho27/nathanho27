@@ -38,7 +38,7 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ---
 
-## 🛠️ Languages and Tools (Visual)
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,sql,tableau,powerbi,git,github,vscode,html,css,js,azure,tensorflow,pytorch" height="40" />
