@@ -1,10 +1,16 @@
 # Nathan Ho | Aspiring Data Analyst  
 Statistics & Data Science, UC Santa Barbara
 
-Hi, I’m Nathan. I am an aspiring Data Analyst with a background in Statistics and Data Science from UC Santa Barbara.  
-I enjoy exploring data from different angles and cleaning, modeling, and visualizing insights that help tell a story.  
-My work focuses on turning raw data into clear, visual, and useful information.
-At this current moment, I am working on projects that combine Tableau, Python, SQL, and Excel.
+Hi 😁 my name is Nathan Ho, 
+
+I am an aspiring **Data Analyst** with a background in **Statistics and Data Science** from UC Santa Barbara.  
+
+I enjoy exploring data from different angles — cleaning, modeling, and visualizing insights that help tell a story.  
+
+My work focuses on turning raw data into clear, visual, and useful information.  
+
+At this current moment, I am working on projects that combine **Tableau**, **Python**, **SQL**, and **Excel**.  
+
 I’m currently pursuing full-time roles where I can contribute my data analysis expertise to a collaborative team and continue growing my skills.
 
 ## About Me
