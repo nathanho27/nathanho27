@@ -1,4 +1,4 @@
-# Nathan Ho
+# Nathan Ho's Github
 
 Hi, I’m Nathan. I am an aspiring Data Analyst with a background in Statistics and Data Science from UC Santa Barbara.  
 I enjoy exploring data from different angles and cleaning, modeling, and visualizing insights that help tell a story.  
