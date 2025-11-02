@@ -5,7 +5,7 @@ Hi 😁 my name is Nathan Ho,
 
 I am an aspiring **Data Analyst** with a background in **Statistics and Data Science** from UC Santa Barbara.  
 
-I enjoy exploring data from different angles — cleaning, modeling, and visualizing insights that help tell a story.  
+I enjoy exploring data from different angles; cleaning, modeling, and visualizing insights that help tell a story.  
 
 My work focuses on turning raw data into clear, visual, and useful information.  
 
