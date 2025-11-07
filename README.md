@@ -1,9 +1,9 @@
-# Nathan Ho | Aspiring Data Analyst  
+# Nathan Ho | Aspiring Data Analyst/Scientist/Engineer
 Recent Statistics & Data Science alum, UC Santa Barbara
 
 Hi 😁 my name is Nathan Ho, 
 
-I am an aspiring **Data Analyst** with a background in **Statistics and Data Science** from UC Santa Barbara.  
+I am an aspiring **Data Analyst/Scientist/Engineer** with a background in **Statistics and Data Science** from UC Santa Barbara.  
 
 I enjoy exploring data from different angles; cleaning, modeling, and visualizing insights that help tell a story.  
 
