@@ -1,5 +1,5 @@
 # Nathan Ho | Aspiring Data Analyst  
-Statistics & Data Science, UC Santa Barbara
+Recent Statistics & Data Science alum, UC Santa Barbara
 
 Hi 😁 my name is Nathan Ho, 
 
