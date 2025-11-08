@@ -59,13 +59,24 @@ Planned end-to-end analytics project focused on business decision making, KPI tr
 
 ## Languages and Tools
 
-![skills](https://skillicons.dev/icons?i=python,r,git,github,vscode,html,css,js,azure,tensorflow,pytorch)
+**Programming & Analytics**
 
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" title="Tableau"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" title="Power BI"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" title="Databricks"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" title="Apache Spark"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="40" title="Google Cloud"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,js,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=azure" height="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45" />
+</p>
+
+**Business Intelligence & Data Platforms**
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45" title="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="45" title="Databricks"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="45" title="Apache Spark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="45" title="Google Cloud"/>
+</p>
 
 ---
 
