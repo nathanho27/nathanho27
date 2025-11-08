@@ -45,23 +45,27 @@ Applied ARIMA and GARCH models in R to analyze stock volatility and identify ris
 **NBA Breakout Predictor**  
 Built Random Forest and XGBoost models in R to classify “breakout” NBA seasons based on performance deltas across years.
 
-<hr style="border: 1px solid #FFD700; margin-top: 20px; margin-bottom: 20px;">
+---
 
-<h3 align="center" style="color:#003660;"> Languages and Tools</h3>
+## Projects in Progress
 
-<p align="center">
+**Crypto Market Analytics Dashboard**  
+Building a Tableau Public dashboard using a custom ETL pipeline (API → SQL → Excel) to visualize BTC/ETH price trends, volatility, correlations, and trading volume. Will include an interactive dark-theme dashboard and GitHub repo.
 
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,html,css,js,azure,tensorflow,pytorch" height="40" />
+**Business Intelligence Case Study (Power BI)**  
+Planned end-to-end analytics project focused on business decision making, KPI tracking, and insight generation using Power BI, DAX, and structured reporting.
 
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" title="Tableau" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" title="Databricks" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" title="Apache Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="40" title="Google Cloud" />
+---
 
-</p>
+## Languages and Tools
 
-<hr style="border: 1px solid #003660; margin-top: 20px; margin-bottom: 20px;">
+![skills](https://skillicons.dev/icons?i=python,r,git,github,vscode,html,css,js,azure,tensorflow,pytorch)
 
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" title="Tableau"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" title="Power BI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" title="Databricks"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" title="Apache Spark"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="40" title="Google Cloud"/>
 
 ---
 
