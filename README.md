@@ -52,7 +52,7 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 **Crypto Market Analytics Dashboard**  
 Building a Tableau Public dashboard using a custom ETL pipeline (API → SQL → Excel) to visualize BTC/ETH price trends, volatility, correlations, and trading volume. Will include an interactive dark-theme dashboard and GitHub repo.
 
-**Yelp Business Intelligence (Power BI)  
+**Yelp Business Intelligence (Power BI)**  
 End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
 
 
