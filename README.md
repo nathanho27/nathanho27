@@ -1,25 +1,25 @@
-# Nathan Ho | Aspiring Data Analyst/Scientist/Engineer
-Recent Statistics & Data Science alum, UC Santa Barbara
+# Nathan Ho
+Aspiring Data Analyst • Data Scientist • Data Engineer  
+Statistics & Data Science, UC Santa Barbara (2025)
 
-Hi 😁 my name is Nathan Ho, 
+Hi, I’m Nathan.
 
-I am an aspiring **Data Analyst/Scientist/Engineer** with a background in **Statistics and Data Science** from UC Santa Barbara.  
+I work at the intersection of data analytics, engineering, and visualization, turning raw data into clear insights and practical solutions. My work spans building data pipelines, developing predictive models, and delivering interactive dashboards that tell meaningful stories.
 
-I enjoy exploring data from different angles; cleaning, modeling, and visualizing insights that help tell a story.  
+I enjoy projects involving sports analytics, financial markets, business intelligence, and large-scale data exploration. I’m especially focused on developing end-to-end workflows that connect data collection, transformation, analysis, and visualization.
 
-My work focuses on turning raw data into clear, visual, and useful information.  
+Right now, I’m building projects using **Python, SQL, Tableau, Power BI, and Excel**, with an emphasis on actionable insights and clean, intuitive design.
 
-At this current moment, I am working on projects that combine **Tableau**, **Python**, **SQL**, and **Excel**.  
+I’m pursuing full-time opportunities where I can contribute to impactful data work and continue growing as an analyst and engineer.
 
-I’m currently pursuing full-time roles where I can contribute my data analysis expertise to a collaborative team and continue growing my skills.
+---
 
-## About Me
-
-🎓 **B.S. in Statistics & Data Science, UC Santa Barbara (2025)**  
-📊 Interested in sports analytics, financial data, and large-scale data exploration  
-🧠 I enjoy combining programming, analysis, and design to communicate results effectively  
-📍 Based in Sacramento, CA 
-
+### About Me
+- **B.S. in Statistics & Data Science — UC Santa Barbara**
+- Interested in sports, finance, business intelligence, and applied ML
+- Enjoys blending analysis with storytelling and visual design
+- Based in **Sacramento, CA**
+  
 ---
 
 ## Technical Stack
@@ -52,8 +52,9 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 **Crypto Market Analytics Dashboard**  
 Building a Tableau Public dashboard using a custom ETL pipeline (API → SQL → Excel) to visualize BTC/ETH price trends, volatility, correlations, and trading volume. Will include an interactive dark-theme dashboard and GitHub repo.
 
-**Business Intelligence Case Study (Power BI)**  
-Planned end-to-end analytics project focused on business decision making, KPI tracking, and insight generation using Power BI, DAX, and structured reporting.
+**Yelp Business Intelligence (Power BI)  
+End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
+
 
 ---
 
