@@ -34,6 +34,7 @@ I’m pursuing full-time opportunities where I can contribute to impactful data 
 ## Featured Projects
 
 **Crypto Market Analytics Dashboard**
+
 Developed a full analytics workflow integrating Python, SQLite, and Tableau to visualize and analyze crypto performance. Built a pipeline that ingests historical BTC/ETH price data into a structured SQL database, computes performance and risk KPIs (Sharpe ratio, drawdowns, correlation, volatility regime), and feeds into an interactive Tableau dashboard for exploration.
 
 **NBA Stats Analytics**  
