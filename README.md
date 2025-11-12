@@ -14,6 +14,11 @@ I’m pursuing full-time opportunities where I can contribute to impactful data 
 
 ---
 
+## Resume
+[View / Download Resume (PDF)](NathanHoDA.pdf)
+
+---
+
 ### About Me
 - **B.S. in Statistics & Data Science — UC Santa Barbara**
 - Interested in sports, finance, business intelligence, and applied ML
