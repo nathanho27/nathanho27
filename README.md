@@ -68,8 +68,6 @@ End-to-end analytics project focused on market competitiveness, pricing trends, 
 
 **Programming & Analytics**
 
-**Programming & Analytics**
-
 <p align="center">
   <!-- Main languages -->
   <img src="https://skillicons.dev/icons?i=python,r,js,html,css" height="45" />
