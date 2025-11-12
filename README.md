@@ -68,21 +68,19 @@ End-to-end analytics project focused on market competitiveness, pricing trends, 
 
 **Programming & Analytics**
 
+**Programming & Analytics**
+
 <p align="center">
+  <!-- Main languages -->
   <img src="https://skillicons.dev/icons?i=python,r,js,html,css" height="45" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
   <img src="https://skillicons.dev/icons?i=azure" height="45" />
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45" />
-</p>
 
-  <!-- SQL technologies -->
+  <!-- SQL Databases -->
   <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="45" title="SQLite"/>
-
-  <!-- SAS (manual, not supported by skillicons) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SAS_logo_horiz.svg" height="45" title="SAS"/>
-</p>
 
 **Business Intelligence & Data Platforms**
 
