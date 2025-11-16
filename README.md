@@ -61,6 +61,8 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 **Yelp Business Intelligence (Power BI)**  
 End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
 
+**Fitness KPI Analytics (Power BI)**
+Personal health analytics project created for me and my friends to track our fitness journeys using real data instead of generic apps. Logs daily inputs such as calories, protein, workouts, cardio, sleep, and energy, and converts them into weekly KPIs and insights to measure consistency, understand behavior patterns, and support progress together. Built to help us stay accountable, improve our routines, and visualize long-term results through data modeling and BI dashboards.
 
 ---
 
