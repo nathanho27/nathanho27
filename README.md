@@ -100,5 +100,6 @@ Personal health analytics project created for me and my friends to track our fit
 
 - [LinkedIn](https://www.linkedin.com/in/nathanho27)  
 - [GitHub](https://github.com/nathanho27)
+- [HackerRank](https://www.hackerrank.com/profile/nathanho30)
 - Email: **nathanho30@gmail.com**
 
