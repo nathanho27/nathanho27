@@ -66,6 +66,10 @@ End-to-end analytics project focused on market competitiveness, pricing trends, 
 
 Personal health analytics project created for me and my friends to track our fitness journeys using real data instead of generic apps. Logs daily inputs such as calories, protein, workouts, cardio, sleep, and energy, and converts them into weekly KPIs and insights to measure consistency, understand behavior patterns, and support progress together. Built to help us stay accountable, improve our routines, and visualize long-term results through data modeling and BI dashboards.
 
+**TBD**
+
+After I finish my next slate of projects, I want to continue working with financial and marketing data, not sure exactly what projects to tune into but I am ready to get back into working and building.
+
 ---
 
 ## Languages and Tools
