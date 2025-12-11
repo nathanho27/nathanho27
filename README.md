@@ -15,7 +15,7 @@ I’m pursuing full-time opportunities where I can contribute to impactful data 
 ---
 
 ## Resume
-[View / Download Resume (PDF)](NathanHoDA.pdf)
+[View / Download Resume (PDF)](NHResume.pdf)
 
 ---
 
