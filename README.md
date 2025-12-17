@@ -38,6 +38,10 @@ I’m pursuing full-time opportunities where I can contribute to impactful data 
 
 ## Featured Projects
 
+**Yelp Business Intelligence (Power BI)**  
+
+End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
+
 **Crypto Market Analytics Dashboard**
 
 Developed a full analytics workflow integrating Python, SQLite, and Tableau to visualize and analyze crypto performance. Built a pipeline that ingests historical BTC/ETH price data into a structured SQL database, computes performance and risk KPIs (Sharpe ratio, drawdowns, correlation, volatility regime), and feeds into an interactive Tableau dashboard for exploration.
@@ -57,10 +61,6 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 ---
 
 ## Projects in Progress
-
-**Yelp Business Intelligence (Power BI)**  
-
-End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
 
 **MLB Player Trajectory Modeling (Power BI)**
 
