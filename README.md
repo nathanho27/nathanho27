@@ -64,9 +64,9 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 **MLB Player Trajectory Modeling (Power BI)**
 
-After finishing my current project (Yelp BI), I plan to explore player performance trajectories in Major League Baseball using Statcast data. The focus is on identifying breakout, bounceback, decline, and stable profiles by predicting future OPS+ from prior-season tracking metrics. Model outputs are then translated into an interactive Power BI dashboard for ranking, interpretation, and analysis.
+I plan to explore player performance trajectories in Major League Baseball using Statcast data. The focus is on identifying breakout, bounceback, decline, and stable profiles by predicting future OPS+ from prior-season tracking metrics. Model outputs are then translated into an interactive Power BI dashboard for ranking, interpretation, and analysis.
 
-**Fitness KPI Analytics**
+**Fitness KPI Analytics (Excel)**
 
 A personal health analytics project created for my friends and me to track our fitness journeys using real data, rather than generic apps. Logs daily inputs such as calories, protein, workouts, cardio, sleep, and energy, and converts them into weekly KPIs and insights to measure consistency, understand behavior patterns, and support progress together. Built to help us stay accountable, improve our routines, and visualize long-term results through data modeling and BI dashboards.
 
