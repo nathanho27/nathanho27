@@ -42,7 +42,7 @@ I’m pursuing full-time opportunities where I can contribute to impactful data 
 
 End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
 
-**Crypto Market Analytics Dashboard**
+**Crypto Market Analytics Dashboard (Tableau)**
 
 Developed a full analytics workflow integrating Python, SQLite, and Tableau to visualize and analyze crypto performance. Built a pipeline that ingests historical BTC/ETH price data into a structured SQL database, computes performance and risk KPIs (Sharpe ratio, drawdowns, correlation, volatility regime), and feeds into an interactive Tableau dashboard for exploration.
 
@@ -62,15 +62,15 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ## Projects in Progress
 
-**MLB Player Trajectory Modeling (Power BI)(Currently working on)**
+**MLB Player Trajectory Modeling (Power BI) (Currently working on)**
 
 An analytics project exploring how Major League Baseball players transition across performance states over time using Statcast tracking data. The focus is on identifying breakout, bounceback, decline, and stable profiles by modeling future OPS+ from prior-season underlying metrics. Model outputs are translated into an interactive Power BI dashboard for player ranking, interpretation, and longitudinal performance analysis.
 
-**Cross-Platform Music Listening Analytics (Power BI)(Waiting on data sources)**
+**Cross-Platform Music Listening Analytics (Power BI) (Waiting on data sources)**
 
 A user behavior analytics project that integrates and normalizes listening data from Spotify and Apple Music into a unified engagement model. The project focuses on summarizing year-long media consumption patterns through platform-agnostic KPIs, including listening intensity, consistency, preference diversity, and discovery behavior. Insights are delivered through a narrative-style Power BI dashboard inspired by consumer product analytics, emphasizing clear storytelling and interpretable behavioral insights.
 
-**Fitness KPI Analytics (Excel)**
+**Fitness KPI Analytics (Excel) (Planned)**
 
 A personal health analytics project created for my friends and me to track our fitness journeys using real data, rather than generic apps. Logs daily inputs such as calories, protein, workouts, cardio, sleep, and energy, and converts them into weekly KPIs and insights to measure consistency, understand behavior patterns, and support progress together. Built to help us stay accountable, improve our routines, and visualize long-term results through data modeling and BI dashboards.
 
