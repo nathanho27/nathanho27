@@ -107,5 +107,6 @@ A personal health analytics project created for my friends and me to track our f
 - [LinkedIn](https://www.linkedin.com/in/nathanho27)  
 - [GitHub](https://github.com/nathanho27)
 - [HackerRank](https://www.hackerrank.com/profile/nathanho30)
+- [Handshake](https://ucsb.joinhandshake.com/profiles/nathanho27)
 - Email: **nathanho30@gmail.com**
 
