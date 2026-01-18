@@ -59,11 +59,11 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ## Projects in Progress
 
-**MLB Player Trajectory Modeling (Python, MySQL, Power BI) (Currently working on)**
+**MLB Player Trajectory Modeling (Python, MySQL, Power BI)**
 
 An analytics project exploring how Major League Baseball players transition across performance states over time using Statcast tracking data. The focus is on identifying breakout, bounceback, decline, and stable profiles by modeling future OPS+ from prior-season underlying metrics. Model outputs are translated into an interactive Power BI dashboard for player ranking, interpretation, and longitudinal performance analysis.
 
-**Cross-Platform Music Listening Analytics (Python, SQLite, Power BI) (Planned to be worked on after MLB Project)**
+**Cross-Platform Music Listening Analytics (Python, SQLite, Power BI)**
 
 A user behavior analytics project that integrates and normalizes listening data from Spotify and Apple Music into a unified engagement model. The project focuses on summarizing year-long media consumption patterns through platform-agnostic KPIs, including listening intensity, consistency, preference diversity, and discovery behavior. Insights are delivered through a narrative-style Power BI dashboard inspired by consumer product analytics, emphasizing clear storytelling and interpretable behavioral insights.
 
