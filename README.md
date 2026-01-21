@@ -39,6 +39,10 @@ I’m pursuing full-time opportunities where I can contribute to impactful data 
 
 ## Featured Projects
 
+**Cross-Platform Music Listening Analytics (Python, SQLite, Power BI)**
+
+A user behavior analytics project that integrates and normalizes listening data from Spotify and Apple Music into a unified engagement model. The project focuses on summarizing year-long media consumption patterns through platform-agnostic KPIs, including listening intensity, consistency, preference diversity, and discovery behavior. Insights are delivered through a narrative-style Power BI dashboard inspired by consumer product analytics, emphasizing clear storytelling and interpretable behavioral insights.
+
 **Yelp Business Intelligence (Python, PostgreSQL, Power BI)**  
 
 End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
@@ -59,10 +63,6 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 ---
 
 ## Projects in Progress
-
-**Cross-Platform Music Listening Analytics (Python, SQLite, Power BI)**
-
-A user behavior analytics project that integrates and normalizes listening data from Spotify and Apple Music into a unified engagement model. The project focuses on summarizing year-long media consumption patterns through platform-agnostic KPIs, including listening intensity, consistency, preference diversity, and discovery behavior. Insights are delivered through a narrative-style Power BI dashboard inspired by consumer product analytics, emphasizing clear storytelling and interpretable behavioral insights.
 
 **MLB Player Trajectory Modeling (Python, MySQL, Power BI)**
 
