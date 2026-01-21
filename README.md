@@ -1,5 +1,6 @@
 # Nathan Ho
 Data Analyst • Data Scientist • Business Intelligence Analyst
+
 Statistics & Data Science, UC Santa Barbara (2025)
 
 Hi, I’m Nathan.
