@@ -1,100 +1,96 @@
-# Nathan Ho
-Data Analyst • Data Scientist • Business Intelligence Analyst
+# Nathan Ho  
+**Data Analyst | Business Intelligence | Applied Data Science**
 
-Statistics & Data Science, UC Santa Barbara (2025)
+B.S. Statistics & Data Science — UC Santa Barbara (2025)
 
-Hi, I’m Nathan.
+I build end-to-end analytics workflows that turn raw data into clear, actionable insights. My work spans data ingestion, modeling, and interactive dashboards, with a focus on business intelligence, financial analysis, and large-scale data exploration.
 
-I work at the intersection of data analytics, engineering, and visualization, turning raw data into clear insights and practical solutions. My work spans building data pipelines, developing predictive models, and delivering interactive dashboards that tell meaningful stories.
-
-I enjoy projects involving sports analytics, financial markets, business intelligence, and large-scale data exploration. I’m especially focused on developing end-to-end workflows that connect data collection, transformation, analysis, and visualization.
-
-Right now, I’m building projects using **Python, SQL, Tableau, Power BI, and Excel**, with an emphasis on actionable insights and clean, intuitive design.
-
-I’m pursuing full-time opportunities where I can contribute to impactful data work and continue growing as an analyst and engineer.
+Currently building projects using **Python, SQL, Tableau, Power BI, and Excel**, and pursuing full-time roles in data analytics and business intelligence.
 
 ---
+
+## Table of Contents
+- [Featured Projects](#featured-projects)
+- [Technical Skills](#technical-skills)
+- [Resume](#resume)
+- [Connect](#connect)
+- [Languages and Tools](#languages-and-tools)
+
+---
+
+## Featured Projects
+
+### Music Listening Behavior Analytics  
+**Python, SQLite, Power BI**
+
+Cross-platform user behavior analysis integrating Spotify and Apple Music data into a unified event-level model. Focuses on engagement intensity, habit consistency, preference diversity, and discovery behavior through interpretable KPIs and narrative-style Power BI dashboards.
+
+---
+
+### Yelp Business Intelligence Platform  
+**Python, PostgreSQL, Power BI**
+
+End-to-end business intelligence project analyzing market competitiveness, pricing trends, customer ratings, and geographic patterns using the Yelp Fusion API and interactive dashboards.
+
+---
+
+### Crypto Market Performance Analysis  
+**Python, SQLite, Tableau**
+
+Risk-aware crypto analytics pipeline evaluating BTC and ETH performance beyond price movement. Computes drawdowns, Sharpe ratios, volatility regimes, and correlation metrics, delivered through an interactive Tableau dashboard.
+
+---
+
+### Oregon Voter Big Data Analysis  
+**Python, Databricks, SQL**
+
+Processed 3M+ voter records using PySpark and SQL to analyze turnout patterns and demographic trends at scale.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, SQL, R  
+**Analytics & ML:** pandas, NumPy, scikit-learn  
+**Databases:** PostgreSQL, SQLite  
+**BI & Visualization:** Tableau, Power BI, Excel  
+**Big Data & Cloud:** Databricks, Apache Spark, Google BigQuery  
+**Workflow:** Git, GitHub, VS Code  
+
 
 ## Resume
 [View / Download Resume (PDF)](NathanHoDA.pdf)
 
 ---
 
-### About Me
-- **B.S. in Statistics & Data Science — UC Santa Barbara**
-- Interested in sports, finance, business intelligence, and applied ML
-- Enjoys blending analysis with storytelling and visual design
-- Based in **Sacramento, CA**
-  
----
-
-## Technical Stack
-
-**Languages:** Python, R, SQL (PostgreSQL, SQLite), JavaScript, SAS  
-**Libraries & Frameworks:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, ggplot2  
-**Data Tools:** Tableau, Power BI, Excel, Databricks, Apache Spark, Google Cloud (BigQuery, Storage), Azure  
-**Workflow:** Git, GitHub, VSCode  
-
----
-
-## Featured Projects
-
-**Cross-Platform Music Listening Analytics (Python, SQLite, Power BI)**
-
-A user behavior analytics project that integrates and normalizes listening data from Spotify and Apple Music into a unified engagement model. The project focuses on summarizing year-long media consumption patterns through platform-agnostic KPIs, including listening intensity, consistency, preference diversity, and discovery behavior. Insights are delivered through a narrative-style Power BI dashboard inspired by consumer product analytics, emphasizing clear storytelling and interpretable behavioral insights.
-
-**Yelp Business Intelligence (Python, PostgreSQL, Power BI)**  
-
-End-to-end analytics project focused on market competitiveness, pricing trends, customer ratings, and location-based insights using the Yelp Fusion API, Power BI dashboards, and structured business reporting.
-
-**Crypto Market Analytics Dashboard (Python, SQLite, Tableau)**
-
-Developed a full analytics workflow integrating Python, SQLite, and Tableau to visualize and analyze crypto performance. Built a pipeline that ingests historical BTC/ETH price data into a structured SQL database, computes performance and risk KPIs (Sharpe ratio, drawdowns, correlation, volatility regime), and feeds into an interactive Tableau dashboard for exploration.
-
-**Oregon Voter Analysis (Python, Databricks, SQL)**  
-Processed 3M voter records in Databricks using PySpark and SQL. Built models to predict turnout and visualize demographic trends.
-
-**NVIDIA Stock Forecasting (R)**  
-Applied ARIMA and GARCH models in R to analyze stock volatility and identify risk patterns.
-
-**NBA Breakout Predictor (R)**  
-Built Random Forest and XGBoost models in R to classify “breakout” NBA seasons based on performance deltas across years.
-
----
-
-## Languages and Tools
-
-**Programming & Analytics**
-
-<p align="center">
-  <!-- Main languages -->
-  <img src="https://skillicons.dev/icons?i=python,r,js,html,css" height="45" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=azure" height="45" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45" />
-
-  <!-- SQL Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45" title="SQLite"/>
-
-**Business Intelligence & Data Platforms**
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45" title="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" title="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="45" title="Databricks"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="45" title="Apache Spark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="45" title="Google Cloud"/>
-</p>
-
----
-
-## Connect with Me
-
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/nathanho27)  
-- [GitHub](https://github.com/nathanho27)
-- [HackerRank](https://www.hackerrank.com/profile/nathanho30)
-- [Handshake](https://ucsb.joinhandshake.com/profiles/nathanho27)
+- [GitHub](https://github.com/nathanho27)  
 - Email: **nathanho30@gmail.com**
 
+---
+
+## Languages & Tools
+
+### Programming & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,js" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="48" />
+</p>
+
+### Business Intelligence & Data Platforms
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="46" title="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="46" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="46" title="Databricks"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="46" title="Apache Spark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="46" title="Google Cloud"/>
+</p>
