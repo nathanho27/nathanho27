@@ -62,19 +62,6 @@ Built Random Forest and XGBoost models in R to classify “breakout” NBA seaso
 
 ---
 
-## Projects in Progress
-
-**MLB Player Trajectory Modeling (Python, MySQL, Power BI)**
-
-An analytics project exploring how Major League Baseball players transition across performance states over time using Statcast tracking data. The focus is on identifying breakout, bounceback, decline, and stable profiles by modeling future OPS+ from prior-season underlying metrics. Model outputs are translated into an interactive Power BI dashboard for player ranking, interpretation, and longitudinal performance analysis.
-
-**Fitness KPI Analytics (Python, Tableau) (Planned in the Future)**
-
-A personal health analytics project created for my friends and me to track our fitness journeys using real data, rather than generic apps. Logs daily inputs such as calories, protein, workouts, cardio, sleep, and energy, and converts them into weekly KPIs and insights to measure consistency, understand behavior patterns, and support progress together. Built to help us stay accountable, improve our routines, and visualize long-term results through data modeling and BI dashboards.
-
-
----
-
 ## Languages and Tools
 
 **Programming & Analytics**
