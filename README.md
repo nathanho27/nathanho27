@@ -21,9 +21,9 @@ Currently building projects using **Python, SQL, Tableau, Power BI, and Excel**,
 ## Featured Projects
 
 ### Music Listening Behavior Analytics  
-**Python, SQLite, Power BI**
+**Python, SQLite, Tableau**
 
-Cross-platform user behavior analysis integrating Spotify and Apple Music data into a unified event-level model. Focuses on engagement intensity, habit consistency, preference diversity, and discovery behavior through interpretable KPIs and narrative-style Power BI dashboards.
+Cross-platform user behavior analysis integrating Spotify and Apple Music data into a unified event-level model. Focuses on engagement intensity, habit consistency, preference diversity, and discovery behavior through interpretable KPIs and narrative-style Tableau dashboards.
 
 ---
 
