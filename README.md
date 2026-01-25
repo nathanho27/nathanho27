@@ -3,9 +3,9 @@
 
 B.S. Statistics & Data Science — UC Santa Barbara (2025)
 
-I build end-to-end analytics workflows that turn raw data into clear, actionable insights. My work spans data ingestion, modeling, and interactive dashboards, with a focus on business intelligence, financial analysis, and large-scale data exploration.
+I like working with data when it actually *says something*. Most of my projects focus on taking messy, real-world data and turning it into insights that are easy to understand, easy to explain, and useful for decision-making. I enjoy building things end-to-end, from data ingestion and modeling to KPIs and dashboards that tell a clear story.
 
-Currently building projects using **Python, SQL, Tableau, Power BI, and Excel**, and pursuing full-time roles in data analytics and business intelligence.
+Lately, I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, and Excel**, with a focus on business intelligence, financial analysis, and applied data science. I’m currently pursuing full-time roles in data analytics and business intelligence.
 
 ---
 
@@ -23,28 +23,36 @@ Currently building projects using **Python, SQL, Tableau, Power BI, and Excel**,
 ### Music Listening Behavior Analytics  
 **Python, SQLite, Tableau**
 
-Cross-platform user behavior analysis integrating Spotify and Apple Music data into a unified event-level model. Focuses on engagement intensity, habit consistency, preference diversity, and discovery behavior through interpretable KPIs and narrative-style Tableau dashboards.
+Cross-platform user behavior analysis integrating Spotify and Apple Music data into a unified event-level model. This project focuses on how listening habits change over time, including engagement intensity, session behavior, preference concentration, and discovery patterns, using interpretable KPIs and a narrative-style Tableau dashboard.
+
+![Music Listening Dashboard](images/MusicWrapped.png)
 
 ---
 
 ### Yelp Business Intelligence Platform  
 **Python, PostgreSQL, Power BI**
 
-End-to-end business intelligence project analyzing market competitiveness, pricing trends, customer ratings, and geographic patterns using the Yelp Fusion API and interactive dashboards.
+End-to-end business intelligence project analyzing market competitiveness, pricing strategy, customer ratings, and geographic patterns using Yelp Fusion API data. The project combines SQL-based KPIs, machine learning–driven signals, and interactive Power BI dashboards to surface actionable business insights.
+
+![Austin Market Overview](images/AustinMarketOverview.png)
+
+![Yelp ML Dashboard](images/AustinMLDashboard.png)
 
 ---
 
 ### Crypto Market Performance Analysis  
 **Python, SQLite, Tableau**
 
-Risk-aware crypto analytics pipeline evaluating BTC and ETH performance beyond price movement. Computes drawdowns, Sharpe ratios, volatility regimes, and correlation metrics, delivered through an interactive Tableau dashboard.
+Risk-aware crypto analytics pipeline evaluating Bitcoin and Ethereum performance beyond simple price movement. The project computes drawdowns, volatility regimes, Sharpe ratios, and correlation metrics, delivered through an interactive Tableau dashboard designed for exploratory analysis.
+
+![Crypto Market Tracker](images/CryptoMarketTracker.png)
 
 ---
 
 ### Oregon Voter Big Data Analysis  
 **Python, Databricks, SQL**
 
-Processed 3M+ voter records using PySpark and SQL to analyze turnout patterns and demographic trends at scale.
+Large-scale voter analytics project processing 3M+ voter records using PySpark and SQL. Focuses on turnout patterns, demographic trends, and scalable data processing workflows in a big-data environment.
 
 ---
 
@@ -57,9 +65,10 @@ Processed 3M+ voter records using PySpark and SQL to analyze turnout patterns an
 **Big Data & Cloud:** Databricks, Apache Spark, Google BigQuery  
 **Workflow:** Git, GitHub, VS Code  
 
+---
 
 ## Resume
-[View / Download Resume (PDF)](NathanHoDA.pdf)
+[View / Download Resume (PDF)](resume/NathanHo.pdf)
 
 ---
 
