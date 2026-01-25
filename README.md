@@ -1,5 +1,5 @@
 # Nathan Ho  
-**Data Analyst | Business Intelligence | Applied Data Science**
+**Data Analyst**
 
 B.S. Statistics & Data Science — UC Santa Barbara (2025)
 
@@ -14,7 +14,6 @@ Lately, I’ve been building analytics projects using **Python, SQL, Tableau, Po
 - [Technical Skills](#technical-skills)
 - [Resume](#resume)
 - [Connect](#connect)
-- [Languages and Tools](#languages-and-tools)
 
 ---
 
@@ -68,7 +67,7 @@ Large-scale voter analytics project processing 3M+ voter records using PySpark a
 ---
 
 ## Resume
-[View / Download Resume (PDF)](resume/NathanHo.pdf)
+[View / Download Resume (PDF)](resume/NathanHoDA.pdf)
 
 ---
 
