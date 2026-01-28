@@ -26,6 +26,8 @@ Cross-platform user behavior analysis integrating Spotify and Apple Music data i
 
 ![Music Listening Dashboard](images/MusicWrapped.png)
 
+![Music Behavior Dashboard](images/ListeningBehavior.png)
+
 ---
 
 ### Yelp Business Intelligence Platform  
