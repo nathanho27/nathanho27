@@ -11,9 +11,11 @@ Lately, I’ve been building analytics projects using **Python, SQL, Tableau, Po
 
 ## Table of Contents
 - [Featured Projects](#featured-projects)
+- [Current Projects](#current-projects)
 - [Technical Skills](#technical-skills)
 - [Resume](#resume)
 - [Connect](#connect)
+
 
 ---
 
@@ -56,7 +58,16 @@ Risk-aware crypto analytics pipeline evaluating Bitcoin and Ethereum performance
 Large-scale voter analytics project processing 3M+ voter records using PySpark and SQL. Focuses on turnout patterns, demographic trends, and scalable data processing workflows in a big-data environment.
 
 ---
+## Current Projects
 
+### PaymentRails
+Market and competitive analytics project analyzing Visa and Mastercard as global payment networks and financial infrastructure providers.
+
+Focus areas include market performance, financial metrics, and competitive positioning, supported by a Python, MySQL, Excel, and Tableau analytics pipeline.
+
+[View Repository](https://github.com/nathanho27/PaymentRails)
+
+---
 ## Technical Skills
 
 **Languages:** Python, SQL, R  
