@@ -58,7 +58,7 @@ Risk-aware crypto analytics pipeline evaluating Bitcoin and Ethereum performance
 Large-scale voter analytics project processing 3M+ voter records using PySpark and SQL. Focuses on turnout patterns, demographic trends, and scalable data processing workflows in a big-data environment.
 
 ---
-## Current Projects
+## Current Projects (On hold due to interviews for Master's programs)
 
 ### PaymentRails
 Market and competitive analytics project analyzing Visa and Mastercard as global payment networks and financial infrastructure providers.
