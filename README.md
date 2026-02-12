@@ -3,7 +3,7 @@
 
 B.S. Statistics & Data Science from UC Santa Barbara (2025)
 
-I am passionate about working with data when it actually *says something*. My projects focus on taking messy, real-world data and turning it into insights that are easy to understand, easy to explain, and useful for decision-making. I enjoy building things end-to-end, from data ingestion and modeling to KPIs and dashboards that tell a clear story.
+Hi, my name is Nathan Ho. I am passionate about working with data when it actually *does and says something*. My projects focus on taking messy, real-world data and turning it into insights that are easy to understand, easy to explain, and useful for decision-making. I enjoy building things end-to-end, from data ingestion and modeling to KPIs and dashboards that tell a clear story.
 
 I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, and Excel**, with a focus on business intelligence, financial analysis, and applied data science. I’m currently pursuing full-time roles in data analytics and business intelligence.
 
@@ -72,7 +72,7 @@ Focus areas include market performance, financial metrics, and competitive posit
 
 **Languages:** Python, SQL, R  
 **Analytics & ML:** pandas, NumPy, scikit-learn  
-**Databases:** PostgreSQL, SQLite  
+**Databases:** PostgreSQL, MySQL, SQLite  
 **BI & Visualization:** Tableau, Power BI, Excel  
 **Big Data & Cloud:** Databricks, Apache Spark, Google BigQuery  
 **Workflow:** Git, GitHub, VS Code  
