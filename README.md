@@ -1,11 +1,11 @@
 # Nathan Ho  
 **Data Analyst**
 
-B.S. Statistics & Data Science — UC Santa Barbara (2025)
+B.S. Statistics & Data Science from UC Santa Barbara (2025)
 
-I like working with data when it actually *says something*. Most of my projects focus on taking messy, real-world data and turning it into insights that are easy to understand, easy to explain, and useful for decision-making. I enjoy building things end-to-end, from data ingestion and modeling to KPIs and dashboards that tell a clear story.
+I am passionate about working with data when it actually *says something*. My projects focus on taking messy, real-world data and turning it into insights that are easy to understand, easy to explain, and useful for decision-making. I enjoy building things end-to-end, from data ingestion and modeling to KPIs and dashboards that tell a clear story.
 
-Lately, I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, and Excel**, with a focus on business intelligence, financial analysis, and applied data science. I’m currently pursuing full-time roles in data analytics and business intelligence.
+I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, and Excel**, with a focus on business intelligence, financial analysis, and applied data science. I’m currently pursuing full-time roles in data analytics and business intelligence.
 
 ---
 
@@ -58,7 +58,7 @@ Risk-aware crypto analytics pipeline evaluating Bitcoin and Ethereum performance
 Large-scale voter analytics project processing 3M+ voter records using PySpark and SQL. Focuses on turnout patterns, demographic trends, and scalable data processing workflows in a big-data environment.
 
 ---
-## Current Projects (Progress during February will be very wonky due to Master's program interviews (inconsistent commits))
+## Current Projects (Progress during February will be very inconsistent due to Master's program and full-time role interviews (commits not daily))
 
 ### PaymentRails
 Market and competitive analytics project analyzing Visa and Mastercard as global payment networks and financial infrastructure providers.
