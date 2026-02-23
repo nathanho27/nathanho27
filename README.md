@@ -80,7 +80,7 @@ Focus areas include market performance, financial metrics, and competitive posit
 ---
 
 ## Resume
-[View / Download Resume (PDF)](resume/NathanHoDA.pdf)
+[View / Download Resume (PDF)](resume/NathanHoResume.pdf)
 
 ---
 
