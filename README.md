@@ -28,7 +28,7 @@ Financial market analytics project analyzing Visa and Mastercard as global payme
 
 Key areas of analysis include market performance, risk vs return characteristics, and company financial performance across revenue growth, profitability, and volatility metrics.
 
-![Payment Network Market Analysis](images/PaymentMarketAnalysis.png)
+![Payment Network Market Analysis](images/PaymentNetworkAnalysis.png)
 
 ![Risk vs Return Analysis](images/RiskVsReturnAnalysis.png)
 
