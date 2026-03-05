@@ -21,6 +21,19 @@ I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, 
 
 ## Featured Projects
 
+### PaymentRails — Payment Network Market Analysis  
+**Python, MySQL, SQL, Tableau, Excel**
+
+Financial market analytics project analyzing Visa and Mastercard as global payment networks and financial infrastructure providers. The project builds a full analytics pipeline from Python data ingestion and SQL metric engineering to Tableau visualizations and Excel financial analysis.
+
+Key areas of analysis include market performance, risk vs return characteristics, and company financial performance across revenue growth, profitability, and volatility metrics.
+
+![Payment Network Market Analysis](images/PaymentMarketAnalysis.png)
+
+![Risk vs Return Analysis](images/RiskVsReturnAnalysis.png)
+
+![Financial Performance Analysis](images/FinancialPerformanceAnalysis.png)
+
 ### Music Listening Behavior Analytics  
 **Python, SQLite, Tableau**
 
@@ -59,13 +72,6 @@ Large-scale voter analytics project processing 3M+ voter records using PySpark a
 
 ---
 ## Current Projects
-
-### PaymentRails
-Market and competitive analytics project analyzing Visa and Mastercard as global payment networks and financial infrastructure providers.
-
-Focus areas include market performance, financial metrics, and competitive positioning, supported by a Python, MySQL, Excel, and Tableau analytics pipeline.
-
-[View Repository](https://github.com/nathanho27/PaymentRails)
 
 ---
 ## Technical Skills
