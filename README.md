@@ -26,13 +26,17 @@ I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, 
 
 Financial market analytics project analyzing Visa and Mastercard as global payment networks and financial infrastructure providers. The project builds a full analytics pipeline from Python data ingestion and SQL metric engineering to Tableau visualizations and Excel financial analysis.
 
-Key areas of analysis include market performance, risk vs return characteristics, and company financial performance across revenue growth, profitability, and volatility metrics.
+Key areas of analysis include market performance, risk vs return characteristics, financial fundamentals, market relationships, and performance across different market volatility environments.
 
 ![Payment Network Market Analysis](images/PaymentNetworkAnalysis.png)
 
 ![Risk vs Return Analysis](images/RiskVsReturnAnalysis.png)
 
 ![Financial Performance Analysis](images/FinancialPerformanceAnalysis.png)
+
+![Market Relationship Analysis](images/MarketRelationshipAnalysis.png)
+
+![Market Volatility Analysis](images/MarketVolatilityAnalysis.png)
 
 ### Music Listening Behavior Analytics  
 **Python, SQLite, Tableau**
