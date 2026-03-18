@@ -1,7 +1,7 @@
 # Nathan Ho  
-**Data Analyst**
 
 Incoming M.S. Business Analytics at UC Davis (August 2026 - 2027)
+
 B.S. Statistics & Data Science from UC Santa Barbara (2025)
 
 Hi, my name is Nathan Ho. I am passionate about working with data when it actually *does and says something*. My projects focus on taking messy, real-world data and turning it into insights that are easy to understand, easy to explain, and useful for decision-making. I enjoy building things end-to-end, from data ingestion and modeling to KPIs and dashboards that tell a clear story.
