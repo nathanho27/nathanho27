@@ -82,7 +82,7 @@ Large-scale voter analytics project processing 3M+ voter records using PySpark a
 Machine learning project for predicting equity risk signals such as drawdowns and volatility shifts using financial time series data.  
 Currently building the data pipeline and feature engineering framework.
 
-**Taking a break in April-May (taking a permanent sub position for the rest of the school year)**
+**Returning from permanent sub position to come back to projects late May**
 
 ---
 ## Technical Skills
@@ -97,7 +97,7 @@ Currently building the data pipeline and feature engineering framework.
 ---
 
 ## Resume
-[View / Download Resume (PDF)](resume/NathanHoDA.pdf)
+[View / Download Resume (PDF)](resume/Nathan-Ho-Resume.pdf)
 
 ---
 
