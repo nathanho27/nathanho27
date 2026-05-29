@@ -6,7 +6,7 @@ B.S. Statistics & Data Science from UC Santa Barbara (2025)
 
 Hi, my name is Nathan Ho. I enjoy building things end-to-end, from data ingestion and modeling to KPIs and dashboards that tell a clear story.
 
-I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, and Excel**, with a focus on business intelligence, financial analysis, and applied data science. I’m currently pursuing full-time roles in data analytics and business intelligence.
+I’ve been building analytics projects using **Python, SQL, Tableau, Power BI, and Excel**, with a focus on business intelligence, financial analysis, and applied data science.
 
 ---
 
