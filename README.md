@@ -95,7 +95,7 @@ Currently building the data pipeline and feature engineering framework.
 ---
 
 ## Resume
-[View / Download Resume (PDF)](resume/Nathan-Ho-Resume.pdf)
+[View / Download Resume (PDF)](resume/Nathan_Ho_Resume.pdf)
 
 ---
 
