@@ -1,6 +1,6 @@
 # Nathan Ho  
 
-Incoming M.S. Business Analytics at UC Davis (August 2026 - Jun 2027)
+Incoming M.S. Business Analytics at UC Davis (August 2026 - June 2027)
 
 B.S. Statistics & Data Science from UC Santa Barbara (2025)
 
